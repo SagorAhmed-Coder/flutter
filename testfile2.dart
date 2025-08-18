@@ -1,3 +1,3 @@
 void main(){
-  print("this is testfile 2")
+  print("this is testfile 2");
 }
