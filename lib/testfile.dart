@@ -1,1 +1,3 @@
-hello i am from test file
+void main(){
+  print('this is test file');
+}
